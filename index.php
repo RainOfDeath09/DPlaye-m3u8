@@ -86,7 +86,7 @@
 <body marginwidth="0" marginheight="0" style="position:absolute;width:100%;top:0;bottom:0;backgroung:#000">
 <link rel="stylesheet" href="./DPlaye/DPlayer.min.css">
 <script src="./DPlaye/jquery.min.js"></script>
-<div id="player1"></div>
+<div id="https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8"></div>
 <script type="text/javascript" src="./DPlaye/hls.min.js"></script>
 <script type="text/javascript" src="./DPlaye/DPlayer.min.js" charset="utf-8"></script>
 <script>
